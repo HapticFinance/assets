@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<linearGradient id="XMLID_55_" gradientUnits="userSpaceOnUse" x1="26.7083" y1="5.2917" x2="5.2455" y2="26.7545">
+<svg version="1.1" id="Hap" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Circle_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<linearGradient id="Circle_1_" gradientUnits="userSpaceOnUse" x1="26.2094" y1="26.1906" x2="5.8439" y2="5.8251" gradientTransform="matrix(1 0 0 -1 0 32)">
 	<stop  offset="0" style="stop-color:#2F68FB"/>
 	<stop  offset="1" style="stop-color:#3723C3"/>
 </linearGradient>
-<path id="XMLID_9_" fill="url(#XMLID_55_)" d="M16,31.2L16,31.2C7.6,31.2,0.8,24.4,0.8,16v0C0.8,7.6,7.6,0.8,16,0.8h0
-	c8.4,0,15.2,6.8,15.2,15.2v0C31.2,24.4,24.4,31.2,16,31.2z"/>
-<linearGradient id="XMLID_56_" gradientUnits="userSpaceOnUse" x1="26.1833" y1="5.8209" x2="5.8178" y2="26.1864">
-	<stop  offset="0" style="stop-color:#2F68FB"/>
-	<stop  offset="1" style="stop-color:#3723C3"/>
-</linearGradient>
-<path id="XMLID_411_" display="none" fill="url(#XMLID_56_)" d="M16,30.4L16,30.4C8,30.4,1.6,24,1.6,16v0C1.6,8.1,8,1.6,16,1.6h0
-	c8,0,14.4,6.4,14.4,14.4v0C30.4,24,24,30.4,16,30.4z"/>
-<g id="XMLID_1027_">
-	<path id="XMLID_1028_" fill="#FFFFFF" d="M19.1,24.8V14.6c0-0.6,0-1.1-0.1-1.6c-0.1-0.5-0.2-0.9-0.5-1.2c-0.2-0.3-0.5-0.6-0.9-0.7
-		c-0.4-0.2-0.8-0.3-1.3-0.3c-0.6,0-1,0.1-1.5,0.3c-0.4,0.2-0.8,0.5-1,0.9c-0.3,0.4-0.5,0.7-0.6,1.2c-0.1,0.4-0.2,0.9-0.2,1.3v6.1H12
-		V10.1l0.9,0c0,0,0,2,0,2h0c0.2-0.5,0.5-0.9,0.8-1.2c0.3-0.3,0.6-0.5,0.9-0.7c0.3-0.2,0.6-0.3,1-0.3c0.3,0,0.6-0.1,0.9-0.1
-		c0.6,0,1.1,0.1,1.5,0.3c0.4,0.2,0.8,0.5,1.1,0.8c0.3,0.4,0.5,0.8,0.7,1.3c0.1,0.5,0.2,1.1,0.2,1.8v10.7H19.1z"/>
-</g>
+<path id="Circle" class="st0" d="M16,30.4L16,30.4C8,30.4,1.6,24,1.6,16l0,0C1.6,8.1,8,1.6,16,1.6l0,0C24,1.6,30.4,8,30.4,16l0,0
+	C30.4,24,24,30.4,16,30.4z"/>
+<path id="Icon" class="st1" d="M19.1,24.8V14.6c0-0.6,0-1.1-0.1-1.6s-0.2-0.9-0.5-1.2c-0.2-0.3-0.5-0.6-0.9-0.7
+	c-0.4-0.2-0.8-0.3-1.3-0.3c-0.6,0-1,0.1-1.5,0.3c-0.4,0.2-0.8,0.5-1,0.9c-0.3,0.4-0.5,0.7-0.6,1.2c-0.1,0.4-0.2,0.9-0.2,1.3v6.1h-1
+	V10.1h0.9v2l0,0c0.2-0.5,0.5-0.9,0.8-1.2s0.6-0.5,0.9-0.7c0.3-0.2,0.6-0.3,1-0.3c0.3,0,0.6-0.1,0.9-0.1c0.6,0,1.1,0.1,1.5,0.3
+	s0.8,0.5,1.1,0.8c0.3,0.4,0.5,0.8,0.7,1.3c0.1,0.5,0.2,1.1,0.2,1.8v10.7L19.1,24.8L19.1,24.8z"/>
 </svg>
